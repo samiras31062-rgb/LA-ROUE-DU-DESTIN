@@ -9,7 +9,7 @@ source.include_exts = py,png,jpg,jpeg,kv,atlas,ttf,otf,json,txt
 
 version = 1.0
 
-requirements = python3==3.10.12,pygame
+requirements = python3==3.10.12,hostpython3==3.10.12,pygame
 
 orientation = portrait
 fullscreen = 0
